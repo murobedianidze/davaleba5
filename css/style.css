@@ -1,0 +1,27 @@
+header{
+    margin: 0 auto;
+    padding-left: 69px;
+    padding-top: 34px;
+    padding-bottom: 106px;
+}
+.logo{
+    vertical-align: middle;
+    margin-right: 312px;
+}
+nav{
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 117px;
+}
+li{
+    margin-right: 83px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: 'Nerko One';
+}
+.active{
+    color: #FA1A35;
+}
+li a{
+    color: #0F5009;
+}
