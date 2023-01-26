@@ -71,6 +71,7 @@ h1 {
 article{
     text-align: center;
     padding: 92px 216px 137px 207px;
+    margin: 0 auto;
 }
 .article_h {
     color: #0F5009;
@@ -83,4 +84,23 @@ article{
     color: #1F6519;
     font-size: 36px;
     font-family: 'PT Serif';
+}
+footer{
+    background-color: #1F6519;
+    width: 1440px;
+    margin: 0 auto;
+    /* padding: 74px 118px 73px 109px; */
+}
+.footer_logo{
+    display: inline-block;
+    margin-right: 617px;
+    margin: 74px 617px 73px 109px;
+    vertical-align: middle;
+}
+.footer_text{
+    display: inline-block;
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: 'Nerko One';
+    vertical-align: middle;
 }
