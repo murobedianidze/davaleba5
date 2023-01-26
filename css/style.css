@@ -45,6 +45,7 @@ section {
     vertical-align: middle;
     margin-right: 96px;
 }
+
 div {
     display: inline-block;
     color: #FFFFFF;
@@ -55,13 +56,31 @@ div {
     padding-top: 110px;
     padding-bottom: 154px;
 }
+
 h1 {
     font-family: 'Nerko One';
     font-size: 36px;
     text-align: center;
 }
+
 .section_text {
     font-family: 'PT Serif';
     font-size: 32px;
     margin-top: 35px;
+}
+article{
+    text-align: center;
+    padding: 92px 216px 137px 207px;
+}
+.article_h {
+    color: #0F5009;
+    font-family: 'PT Serif';
+    font-size: 40px;
+    margin-bottom: 92px;
+}
+
+.article_text {
+    color: #1F6519;
+    font-size: 36px;
+    font-family: 'PT Serif';
 }
